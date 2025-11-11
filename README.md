@@ -1,4 +1,4 @@
-# c-
+# c#控制台飞行棋游戏
 个人的一大步！
 using Microsoft.VisualBasic;
 
